@@ -32,12 +32,9 @@ span {
 .sound-card:hover {
     background-color: yellow;
     color: black;
-<<<<<<< Updated upstream
-=======
 }
 
 .addClass {
     box-shadow: 0px 0px 10px 6px yellow;
     font-size: larger;
->>>>>>> Stashed changes
 }
