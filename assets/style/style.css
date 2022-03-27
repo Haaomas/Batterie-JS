@@ -9,21 +9,41 @@ body {
     height: 100vh;
 }
 
+span {
+    display: flex;
+    justify-content: center;
+    font-size: 2.5rem;
+    color: white;
+}
+
 .sound-card {
     display: block;
-    background-color: black;
+    width: 10rem;
+    background-color: rgba(0, 0, 0, 0.2);
     color: yellow;
-    border: 1px solid gray;
+    border: 3px solid black;
+    border-radius: 5px;
     padding: 1rem;
     margin-right: 1rem;
+    text-transform: uppercase;
+    font-size: 0.8rem;
 }
 
 .sound-card:hover {
     background-color: yellow;
     color: black;
+    <<<<<<< HEAD
 }
 
 .addClass {
     color: tomato;
     background-color: blueviolet;
+    =======<<<<<<< Updated upstream=======
+}
+
+.addClass {
+    box-shadow: 0px 0px 10px 6px yellow;
+    font-size: larger;
+    >>>>>>>Stashed changes>>>>>>>mise-en-place-de-l'interface
+
 }
